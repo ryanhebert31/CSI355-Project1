@@ -10,15 +10,19 @@ Processing, Queuing, Transmission, Propogation. Constant variables include proce
 Tasks include error and flow control, segmentation and reassembly, multiplexing, and connection setup. Some tasks are able to be completed at multiple levels. For example, error control is often completed at more than one layer. 
 ### P25
 #### a 
+160,000 bits
 
-#### b 
+#### b
+160,000 bits
 
 #### c
 
 
 #### d
+125 m
 
 #### e 
+
 
 ### P28 
 
