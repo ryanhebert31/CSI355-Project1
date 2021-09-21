@@ -1,4 +1,4 @@
-# Ryan Hebert & Ben K
+# Ryan Hebert & Ben Kohler
 # IP Calculator 
 # Docs consulted: https://docs.python.org/3/library/ipaddress.html 
 
